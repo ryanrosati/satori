@@ -1,2 +1,2 @@
-# satori
-A modest front-end framework and design system.
+# Satori
+A modest front-end boilerplate framework and design system.
